@@ -1,3 +1,6 @@
+## Архитектура
+Схемы C4 и описание: [c4/architecture.md](c4/architecture.md)
+
 # Task API: Spring Boot + PostgreSQL + Docker Compose
 
 CRUD API для сущности **Task** (сервис задач). Данные хранятся в PostgreSQL (`postgres:16`),
